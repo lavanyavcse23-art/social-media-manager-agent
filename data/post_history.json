@@ -40,5 +40,12 @@
     "time": "19:30",
     "likes": 134,
     "comments": 34
+  },
+  {
+    "content": "Learn a new AI concept in 5 minutes!",
+    "type": "educational",
+    "time": "19:30",
+    "likes": 175,
+    "comments": 49
   }
 ]
